@@ -1,0 +1,5 @@
+{
+  "name": "AI Capability Takeoff Explorer",
+  "description": "An interactive data visualization tool exploring the trajectory of frontier AI models on unsaturated, non-coding benchmarks to assess if we are seeing a hard takeoff in general reasoning capabilities.",
+  "requestFramePermissions": []
+}
